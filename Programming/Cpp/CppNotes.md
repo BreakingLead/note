@@ -33,6 +33,7 @@ int main(int argc, const char **argv) {
 **Constant global variable are internal by default.**
 
 
+
 ### extern keyword
 
 It has 2 **different** usage.
@@ -149,3 +150,7 @@ Lambdas: `[<captures>](<args>) {<body>}`
 ## Miscs and TODO
 
 `explicit` which disable the implicit construction of a class.
+
+为什么 `const T& x` 作为入参能接受一个右值？设计就是这样。
+这里不是引用，单纯是`alias`
+右值没地址。不能改，故`const`

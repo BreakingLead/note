@@ -1,0 +1,56 @@
+body:
+    type: Book
+    title: The Dark Forest
+    author: Cixin Liu
+    date: 2008-05-01
+
+orchi:
+    type: Video
+    title: Simple orchiectomy for transgender patients
+    author: Urology Times
+    url: https://www.youtube.com/watch?v=840oej-7KmU
+
+sf:
+    type: Article
+    title: 葵花宝典第一章 
+    author: 萱酱
+    date: 2020-01-01
+
+
+wiki:
+    type: Web
+    title: Orchiectomy
+    author: Wikipedia
+    url: https://en.wikipedia.org/wiki/Orchiectomy
+
+courage:
+    type: Book
+    title: "The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness"
+    author: ["Ichiro Kishimi", "Fumitake Koga"]
+
+answer:
+    type: Article
+    title: 诗刊
+    publisher: 人民文学出版社 
+    page-range: 73-74
+    date: 1979
+
+suture:
+    type: Web
+    title: 外科手术缝合线打结方法及注意事项
+    url: http://hdksuture.com/info.php?cid=11&id=217
+
+knot:
+    type: Web
+    title: 外科打结技能详解（图文并茂） 
+    url: https://www.sohu.com/a/132981352_686972
+
+ginga:
+    type: Book
+    title: 銀河鉄道の夜
+    author: 宮澤賢治
+
+algernon:
+    type: Book
+    title: Flowers for Algernon
+    author: Daniel Keyes
