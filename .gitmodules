@@ -1,0 +1,9 @@
+[submodule "Blog/templates/themes/dose"]
+	path = Blog/templates/themes/dose
+	url = https://github.com/oltdaniel/dose.git
+[submodule "Blog/templates/themes/terminimal"]
+	path = Blog/templates/themes/terminimal
+	url = https://github.com/pawroman/zola-theme-terminimal.git
+[submodule "Blog/templates/themes/zola.386"]
+	path = Blog/templates/themes/zola.386
+	url = https://github.com/lopes/zola.386
